@@ -5,5 +5,6 @@ GIT COMMIT -m "mensagem"
 GIT LOG --oneline
 GIT CHECKOUT id_commit
 
-REMOTE (url do repositorio)
-PUSH (subir a pasta)
+GIT REMOTE ADD (url do repositorio)
+GIT PUSH -u remoto branch (subir a pasta)
+
