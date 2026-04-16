@@ -1,0 +1,8 @@
+GIT INIT
+GIT STATUS
+GIT ADD *
+GIT COMMIT -m "mensagem"
+GIT LOG --oneline
+GIT CHECKOUT id_commit
+
+
